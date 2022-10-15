@@ -13,4 +13,4 @@ Reference Images below
 ![alt text](https://github.com/Micr0wave3/TBS_SO_PPE_EDITION/blob/main/SO_PPE_ANTENNAE_1.png?raw=true)
 
 1.2
-![alt text](https://https://github.com/Micr0wave3/TBS_SO_PPE_EDITION/blob/main/SO_PPE_DJI_OSMO_MOUNT_1.png?raw=true)
+![alt text](https://github.com/Micr0wave3/TBS_SO_PPE_EDITION/blob/main/SO_PPE_DJI_OSMO_MOUNT_1.png?raw=true)
